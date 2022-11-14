@@ -1,19 +1,18 @@
 # Информационные системы и технологии
 Репозиторий курса СГН3 Информационные системы и технологии
 
-#### Образ виртуальной машины Linux [Ubuntu 20.04](https://github.com/iu5git/Standards/blob/main/Linux/Linux.md) для выполнения заданий курса
+- #### Образ виртуальной машины Linux [Ubuntu 20.04](https://github.com/iu5git/Standards/blob/main/Linux/Linux.md) для выполнения заданий курса
+- #### [Видеозаписи лекций](https://youtube.com/playlist?list=PLLELLTvDgUQ9cpB1XzSuZ0mNSBkbjVNJ_) в YouTube
 
 ### Модуль 1. Веб-приложения. Лекции
 
 * **Лекция 1. Введение в Web**
 
-Основы Web: HTML, URI, кратко HTTP. CSS, кратко JavaScript
-
-Основы работы браузера. DOM
+[Основы Web: HTML, URI, кратко HTTP. CSS, кратко JavaScript. Основы работы браузера. DOM](https://www.youtube.com/watch?v=9ymSOZ5HD58)
 
 * **Лекция 2. Основы JavaScript**
 
-операторы, функции, коллекции, классы
+[операторы, функции, коллекции, классы](https://www.youtube.com/watch?v=BUJShqhF7YQ&t=931s)
 
 * **Лекция 3. История Web, трехуровневая модель приложений, MVC**
 
@@ -43,11 +42,11 @@
 
 * **Лекция 9. Модель SPA. Фронтенд**
 
-npm, HTTP, модель клиент-сервер, spa, кратко express, фронтенд
+[npm, HTTP, модель клиент-сервер, spa, кратко express, фронтенд](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_7_React_Introduction.pdf)
 
 * **Лекция 10. Запросы AJAX**
 
-AJAX. JSON/XML, XmlHttpRequest, Cors
+[AJAX. JSON/XML, XmlHttpRequest, Cors](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_10_Ajax.pdf)
 
 * **Лекция 11. Асинхронный JavaScript**
 
