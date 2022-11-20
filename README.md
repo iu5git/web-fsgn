@@ -97,7 +97,7 @@ JWT. SSO
 Контрольные вопросы: MVC, Django, шаблонизация, HTTP, Web, HTML
 
 * [Методические указания Django](https://github.com/iu5git/web-2022/blob/main/tutorials/lab1-py/lab1_tutorial.md)
-* [Методические указания Golang](https://github.com/iu5git/web-2022/blob/main/tutorials/lab1-go/golang/README.md)
+* [Методические указания Golang](https://github.com/iu5git/web-2022/blob/main/tutorials/lab1-go/README.md)
 
 #### Лабораторная работа №4
 Создание базы данных `PostgreSQL`/`MySQL` (`SQLite` использовать нельзя), подключение к шаблонизатору. Создание админки.
@@ -109,7 +109,7 @@ ER диаграмма: таблицы, связи, столбцы, типы ст
 Контрольные вопросы: ORM, SQL, модель и миграции
 
 * [Методические указания Django](https://github.com/iu5git/web-2022/blob/main/tutorials/lab2-py/lab2_tutorial.md)
-* [Методические указания Golang](https://github.com/iu5git/web-2022/blob/main/tutorials/lab2-go/golang/README.md)
+* [Методические указания Golang](https://github.com/iu5git/web-2022/blob/main/tutorials/lab2-go/README.md)
 
 ### Модуль 2. Одностраничные приложения (SPA)
 
@@ -123,7 +123,7 @@ ER диаграмма: таблицы, связи, столбцы, типы ст
 Контрольные вопросы: веб-сервис, микросервисы, REST, RPC
 
 * [Методические указания DRF](https://github.com/iu5git/web-2022/blob/main/tutorials/lab3-py/lab3_tutorial.md)
-* [Методические указания Golang](https://github.com/iu5git/web-2022/blob/main/tutorials/lab3-go/golang/README.md)
+* [Методические указания Golang](https://github.com/iu5git/web-2022/blob/main/tutorials/lab3-go/README.md)
 
 #### Лабораторная работа 6
 Создание проекта через npm, сервер express. Верстка интерфейса с карточками, данные через mock объекты.
