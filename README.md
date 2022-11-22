@@ -62,7 +62,7 @@ HTTP/2, Polling, WebSocket
 
 * **Лекция 14. JWT. SSO**
 
-JWT. SSO
+[JWT. SSO](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_12_jwt.pdf)
 
 ### Модуль 1. Веб-приложения
 У каждого своя предметная область на 3-7 лабораторные работы: бронирование отелей, билетов в театр/кинотеатр, онлайн-магазин
