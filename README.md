@@ -8,27 +8,28 @@
 
 * **Лекция 1. Введение в Web**
 
-[Основы Web: HTML, URI, кратко HTTP. CSS, кратко JavaScript. Основы работы браузера. DOM](https://www.youtube.com/watch?v=9ymSOZ5HD58)
+[Основы Web: HTML, URI, кратко HTTP. CSS, кратко JavaScript. Основы работы браузера. DOM](https://github.com/iu5git/JavaScript/blob/main/lectures/lec1.pdf)
 
 * **Лекция 2. Основы JavaScript**
 
-[операторы, функции, коллекции, классы](https://www.youtube.com/watch?v=BUJShqhF7YQ&t=931s)
+[операторы, функции, коллекции, классы](https://github.com/iu5git/JavaScript/blob/main/lectures/lec2.pdf)
 
-* **Лекция 3. История Web, трехуровневая модель приложений, MVC**
+* **Лекция 3. История Web, трехуровневая модель приложений, Шаблонизация, Django**
 
-[История Web, трехуровневая модель приложений, MVC](https://github.com/iu5git/web-2022/blob/main/lectures/web_intro.pdf)
+[История Web, трехуровневая модель приложений, Шаблонизация, Django](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_1_Web.pdf)
 
-* **Лекция 4. Методология Agile. Диаграммы UML**
+* **Лекция 4. Протокол HTTP**
 
-[Методология Agile, состав команды. Диаграммы UML](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_2_Agile_UML.pdf)
+[Протокол HTTP](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_4_HTTP.pdf)
 
-* **Лекция 5. Шаблонизация, Django**
+* **Лекция 5. База данных PostgreSQL. Админка Django и ORM**
 
-[Шаблонизация, Django](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_3_Web_Django.pdf)
+[Базы данных, ER, PostgreSQL. ORM. Админка Django. Курсоры](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_2_Databases_ORM.pdf)
 
-* **Лекция 6. База данных PostgreSQL. Админка Django и ORM**
+* **Лекция 6. Методология Agile. Диаграммы UML**
 
-[Базы данных, ER, PostgreSQL. ORM. Админка Django. Курсоры](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_4_Databases_Django_ORM.pdf)
+[Методология Agile, состав команды. Диаграммы UML](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_3_Agile_UML_Git.pdf)
+
 
 ### Модуль 2. Одностраничные приложения (SPA). Лекции
 
@@ -36,33 +37,29 @@
 
 [Веб-сервис. Swagger. Микросервисы](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_5_Web_Service.pdf)
 
-* **Лекция 8. Работа в git. Специализированные сервисы**
-
-[Работа в git. Примеры специализированных сервисов - S3, уведомления, очереди](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_6_Special_Services.pdf)
-
-* **Лекция 9. Модель SPA. Фронтенд**
+* **Лекция 8. Модель SPA. Фронтенд**
 
 [npm, HTTP, модель клиент-сервер, spa, кратко express, фронтенд](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_7_React_Introduction.pdf)
 
-* **Лекция 10. Запросы AJAX**
+* **Лекция 9. Запросы AJAX**
 
 [AJAX. JSON/XML, XmlHttpRequest, Cors](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_10_Ajax.pdf)
 
-* **Лекция 11. Асинхронный JavaScript**
+* **Лекция 10. Асинхронный JavaScript**
 
-Event Loop, промисы, async/await, fetch
+[Event Loop, промисы, async/await, fetch](https://github.com/iu5git/JavaScript/blob/main/lectures/lec5.pdf)
 
-* **Лекция 12. Web реального времени**
+* **Лекция 11. Web реального времени**
 
-HTTP/2, Polling, WebSocket
+[HTTP/2, Polling, WebSocket](https://github.com/iu5git/JavaScript/blob/main/lectures/lec7.pdf)
 
-* **Лекция 13. Авторизация. Сессии. Куки**
+* **Лекция 12. Авторизация. Сессии. Куки**
 
-[Авторизация, куки, токены, хранилище сессий. Ограничение прав на части приложения](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_11_Authorization.pdf)
+[Авторизация, куки, токены, хранилище сессий. Ограничение прав на части приложения](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_8_Authorization.pdf)
 
-* **Лекция 14. JWT. SSO**
+* **Лекция 13. JWT. SSO**
 
-[JWT. SSO](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_12_jwt.pdf)
+[JWT. SSO](https://github.com/iu5git/web-2022/blob/main/lectures/Lecture_9_jwt.pdf)
 
 ### Модуль 1. Веб-приложения
 У каждого своя предметная область на 3-7 лабораторные работы: бронирование отелей, билетов в театр/кинотеатр, онлайн-магазин
