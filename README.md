@@ -1,7 +1,7 @@
 # Информационные системы и технологии
 Репозиторий курса СГН3 Информационные системы и технологии
 
-- #### Образ виртуальной машины Linux [Ubuntu 20.04](https://github.com/iu5git/Standards/blob/main/Linux/Linux.md) для выполнения заданий курса
+- #### Образ виртуальной машины Linux [Ubuntu 22.04](https://github.com/iu5git/Standards/blob/main/Linux/Linux.md) для выполнения заданий курса
 - #### [Видеозаписи лекций](https://youtube.com/playlist?list=PLLELLTvDgUQ9cpB1XzSuZ0mNSBkbjVNJ_) в YouTube
 
 ### Модуль 1. Веб-приложения. Лекции
@@ -110,6 +110,7 @@ ER диаграмма: таблицы, связи, столбцы, типы ст
 
 Контрольные вопросы: ORM, SQL, модель и миграции
 
+* [Методические указания PostgreSQL](https://github.com/iu5git/web-2022/blob/main/tutorials/lab2-db/README.md)
 * [Методические указания Django](https://github.com/iu5git/web-2022/blob/main/tutorials/lab2-py/lab2_tutorial.md)
 * [Методические указания Golang](https://github.com/iu5git/web-2022/blob/main/tutorials/lab2-go/README.md)
 
